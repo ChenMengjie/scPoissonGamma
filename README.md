@@ -117,11 +117,8 @@ for(kk in 1:nrow(allY)){
 ```
 This is a general function that can take *X* of any dimension. 
 
-<<<<<<< HEAD
 ### Simulation example 3: Model in Section 6, drop-out rate is independent of beta
-=======
-### Simulation example 2: Model in Section 6, drop-out rate is independent of beta
->>>>>>> d9543901c8e388741df785a02037982d3c9ec8a3
+
  ```R
  allY <- NULL
 mu2 <- 2
